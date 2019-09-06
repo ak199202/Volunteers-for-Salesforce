@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Volunteers-for-Salesforce",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.0",
+            "definitionFile": "config/project-scratch-def.json"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "40.0",
+    "packageAliases": {
+        "Volunteers-for-Salesforce": "0Ho1t0000004CThCAM",
+        "Volunteers-for-Salesforce@1.0.0-0": "04t1t0000038scxAAA"
+    }
+}
